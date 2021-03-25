@@ -1,0 +1,17 @@
+--- PCB ---
+100n x 6 - https://store.comet.bg/Catalogue/Product/44819/
+10u x 1 - https://store.comet.bg/Catalogue/Product/9549/
+22p x 2 - https://store.comet.bg/Catalogue/Product/23075/
+2PIN x 6 - https://store.comet.bg/Catalogue/Product/4490/
+4PIN x 2 - https://store.comet.bg/Catalogue/Product/25223/
+MAX6675 x 1 - https://store.comet.bg/Catalogue/Product/7540/
+2n2222 x 1 - https://store.comet.bg/Catalogue/Product/27424/
+330 x 1 - https://store.comet.bg/Catalogue/Product/29586/
+1k x 3 - https://store.comet.bg/Catalogue/Product/29099/
+10k x 1 - https://store.comet.bg/Catalogue/Product/29102/
+ATMega328P x 1 - https://store.comet.bg/Catalogue/Product/63575/
+
+--- OTHER ---
+OLED - https://www.ardboard.com/LCD-TFT-дисплей?product_id=264
+2PIN x 6 - https://store.comet.bg/Catalogue/Product/10118/#e30%3D
+4pin x 2 - https://store.comet.bg/Catalogue/Product/4492/#e30%3D
