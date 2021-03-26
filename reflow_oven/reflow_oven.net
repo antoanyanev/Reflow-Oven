@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\antoa\Documents\Important\Electronics\Reflow_Oven\reflow_oven\reflow_oven.sch)
-    (date "26-Mar-21 15:59:46")
+    (date "26-Mar-21 20:44:07")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -86,7 +86,7 @@
       (tstamp 605CFB23))
     (comp (ref Y1)
       (value 16MHz)
-      (footprint Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm_HandSoldering)
+      (footprint Crystal:Crystal_SMD_HC49-SD)
       (datasheet ~)
       (libsource (lib Device) (part Crystal) (description "Two pin crystal"))
       (sheetpath (names /) (tstamps /))

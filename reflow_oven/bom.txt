@@ -7,12 +7,13 @@
 MAX6675 x 1 - https://store.comet.bg/Catalogue/Product/7540/
 2n2222 x 2 - https://store.comet.bg/Catalogue/Product/27424/
 330 x 1 - https://store.comet.bg/Catalogue/Product/29586/
-1k x 4 - https://store.comet.bg/Catalogue/Product/29099/
+1k x 5 - https://store.comet.bg/Catalogue/Product/29099/
 10k x 1 - https://store.comet.bg/Catalogue/Product/29102/
 ATMega328P x 1 - https://store.comet.bg/Catalogue/Product/63575/
 diode x 1 - https://store.comet.bg/Catalogue/Product/14194/
+16MHz x 1 - https://store.comet.bg/Catalogue/Product/27930/
 
 --- OTHER ---
 OLED - https://www.ardboard.com/LCD-TFT-дисплей?product_id=264
-2PIN x 6 - https://store.comet.bg/Catalogue/Product/22265/#e30%3D
+2PIN x 8 - https://store.comet.bg/Catalogue/Product/22265/#e30%3D
 4pin x 2 - https://store.comet.bg/Catalogue/Product/20203/#e30%3D

@@ -129,7 +129,7 @@ U 1 1 605D0112
 P 1600 6400
 F 0 "Y1" V 1650 6150 50  0000 C CNN
 F 1 "16MHz" V 1550 6150 50  0000 C CNN
-F 2 "Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm_HandSoldering" H 1600 6400 50  0001 C CNN
+F 2 "Crystal:Crystal_SMD_HC49-SD" H 1600 6400 50  0001 C CNN
 F 3 "~" H 1600 6400 50  0001 C CNN
 	1    1600 6400
 	0    -1   -1   0   
@@ -770,7 +770,7 @@ Wire Notes Line
 	6600 1850 4150 1850
 Text Notes 4200 1950 0    50   ~ 0
 Thermocouple
-Text Notes 4900 3150 0    50   ~ 0
+Text Notes 4900 3300 0    50   ~ 0
 Control
 Wire Notes Line
 	550  600  550  3050
