@@ -1,0 +1,299 @@
+Cmp-Mod V01 Created by PcbNew   date = 31-Mar-21 11:07:03
+
+BeginCmp
+TimeStamp = 605D4C64
+Path = /606D5240
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4BE4
+Path = /605CF523
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605CF531
+Path = /605C8124
+Reference = U1;
+ValeurCmp = ATmega328-PU;
+IdModule  = Package_DIP:DIP-28_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D247E
+Path = /605C9928
+Reference = U2;
+ValeurCmp = MAX6675;
+IdModule  = Package_SO:SO-8_3.9x4.9mm_P1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D2B26
+Path = /608506C2
+Reference = Q1;
+ValeurCmp = 2n2222;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D440F
+Path = /60874495
+Reference = H2;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D441F
+Path = /60874AF0
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4BC4
+Path = /606B33D9
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4BD4
+Path = /605CE289
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4BF4
+Path = /605D09A4
+Reference = C4;
+ValeurCmp = 22p;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C04
+Path = /605D1000
+Reference = C5;
+ValeurCmp = 22p;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C14
+Path = /605CFB23
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C24
+Path = /6063CA2F
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C34
+Path = /6064CFDA
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C44
+Path = /6065F1D1
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C54
+Path = /605D1380
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C74
+Path = /6067495D
+Reference = R3;
+ValeurCmp = 330;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C84
+Path = /6064DF54
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D4C94
+Path = /6065F1D7
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605D8B18
+Path = /608D4051
+Reference = H4;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DB800
+Path = /60873ADE
+Reference = H1;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3mm_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DDC5A
+Path = /605CD541
+Reference = J1;
+ValeurCmp = UART;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DDC85
+Path = /605CA849
+Reference = J2;
+ValeurCmp = POWER;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DDCA8
+Path = /60696EE4
+Reference = J3;
+ValeurCmp = LED;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DDCCB
+Path = /605CBFA1
+Reference = J4;
+ValeurCmp = K-TYPE;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DDCEE
+Path = /605CC587
+Reference = J5;
+ValeurCmp = BUTTON1;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DDD11
+Path = /605CCC12
+Reference = J6;
+ValeurCmp = BUTTON2;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DDD34
+Path = /605CB20A
+Reference = J7;
+ValeurCmp = RELAY;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DDD57
+Path = /60953FF6
+Reference = J8;
+ValeurCmp = I2C;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DFE1B
+Path = /6064C33D
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DFE3F
+Path = /60659B87
+Reference = J9;
+ValeurCmp = BUTTON3;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605DFE50
+Path = /6064C343
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605E7624
+Path = /60739608
+Reference = D1;
+ValeurCmp = MBR0540T1G;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 605E7648
+Path = /606C74C8
+Reference = J10;
+ValeurCmp = FAN;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 605E765A
+Path = /606A10FE
+Reference = Q2;
+ValeurCmp = 2n2222;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 605E766B
+Path = /606A10F7
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 605E2FD3
+Path = /605D0112
+Reference = Y1;
+ValeurCmp = 16MHz;
+IdModule  = Crystal:Crystal_SMD_HC49-SD;
+EndCmp
+
+EndListe
